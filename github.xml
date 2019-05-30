@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="7c2b69fa-cb62-4c6e-968e-e2e528ae359e" name="ngocbaosp">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
